@@ -1,4 +1,4 @@
-class fraction:
+class Fraction:
     def __init__(self,numerator,denominator):
         self.numerator = numerator
         self.denominator =denominator
@@ -15,7 +15,7 @@ class fraction:
         ...
 
 
-class time:
+class Time:
     def __init__(self,hour,minute,seconds):
         self.hour = hour
         self.minute = minute
@@ -35,7 +35,7 @@ class time:
         ...
 
 
-class dateAD:
+class DateAD:
     def __init__(self,year,month,day):
         self.year = year
         self.month = month
