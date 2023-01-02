@@ -24,3 +24,6 @@ class Media():
         print("4-Documentary")
         print("5-Exit")
 
+class Actor():
+    def __init__(self,casts):
+        self.casts = casts
