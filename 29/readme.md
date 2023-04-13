@@ -49,6 +49,7 @@ python find_the_secret_text.py
 ```
 ## Results
 he is ok because he lied
+
 ![output4](output/secret_text.jpg)
 
 
