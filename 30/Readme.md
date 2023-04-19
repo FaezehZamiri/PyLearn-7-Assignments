@@ -32,6 +32,7 @@ python rotate_image.py
 --------------------------------------------------
 # Align Face
 A simple face alignment project using mtcnn and matplotlib  with python.in this project first os all detecte face , eyes, lips and nose then detect alignment angle and rotate image in this angle.
+
 ![output](input/4.jpeg)
 
 ## How to Run
