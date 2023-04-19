@@ -43,6 +43,7 @@ python face_alignment.py
 ```
 ## Results
 The Angle is 32.005 degree
+
 ![output](output/Face_alignment.jpeg)
 
 
